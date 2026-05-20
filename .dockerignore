@@ -1,0 +1,13 @@
+node_modules/
+.astro/
+dist/
+src/
+astro.config.mjs
+tailwind.config.mjs
+tsconfig.json
+package.json
+package-lock.json
+.gitignore
+.dockerignore
+Dockerfile
+docker-compose.yml
